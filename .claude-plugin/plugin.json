@@ -1,0 +1,12 @@
+{
+  "name": "strategy-consulting-skills",
+  "version": "1.0.0",
+  "description": "MBB-style strategy consulting skills for Claude: problem structuring, market sizing, profitability, market entry, competitive strategy, growth & M&A, executive storylines, and case interview practice.",
+  "author": {
+    "name": "estherchols"
+  },
+  "homepage": "https://github.com/estherchols/strategy-consulting-skills",
+  "repository": "https://github.com/estherchols/strategy-consulting-skills",
+  "license": "MIT",
+  "keywords": ["consulting", "strategy", "mbb", "issue-tree", "market-sizing", "pyramid-principle", "case-interview"]
+}
