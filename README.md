@@ -13,7 +13,6 @@
 | [`competitive-strategy`](skills/competitive-strategy/SKILL.md) | Five Forces, value chain, generic strategies, where to play/how to win, growth-share matrix, 7S, and competitive response |
 | [`growth-and-ma`](skills/growth-and-ma/SKILL.md) | Ansoff matrix, growth horizons, target screening, due diligence, synergies, and valuation sense checks |
 | [`executive-storyline`](skills/executive-storyline/SKILL.md) | Pyramid Principle, SCR, action titles, ghost decks, and executive summaries |
-| [`case-interview`](skills/case-interview/SKILL.md) | Mock case interviews (interviewer-led or candidate-led) with exhibits, math, and scored feedback |
 
 ## Install
 
@@ -48,9 +47,7 @@ Skills trigger automatically when the request matches the skill. For example:
 - "Turn these findings into a storyline and ghost deck for the CEO"
 - "Give me a candidate-led profitability case, final-round difficulty"
 
-## Related
 
-- [pm-skills](https://github.com/estherchols/pm-skills): product management skills (PRDs, user stories, prioritization, experiments, and more)
 
 ## Contributing
 
